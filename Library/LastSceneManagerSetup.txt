@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AxeyWorks/Low Poly v2/DemoScene/DemoSceneFree.unity
+  isLoaded: 1
+  isActive: 1

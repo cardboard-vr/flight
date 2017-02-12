@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermanSimulator", "SupermanSimulator.csproj", "{08E86DF6-1C65-FFF3-C91F-AD83D01E2243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermanSimulator.Editor", "SupermanSimulator.Editor.csproj", "{83D4C09D-7F16-FB55-BA13-9651B8409FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E86DF6-1C65-FFF3-C91F-AD83D01E2243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E86DF6-1C65-FFF3-C91F-AD83D01E2243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E86DF6-1C65-FFF3-C91F-AD83D01E2243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E86DF6-1C65-FFF3-C91F-AD83D01E2243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D4C09D-7F16-FB55-BA13-9651B8409FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D4C09D-7F16-FB55-BA13-9651B8409FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D4C09D-7F16-FB55-BA13-9651B8409FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D4C09D-7F16-FB55-BA13-9651B8409FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

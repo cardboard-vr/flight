@@ -1,0 +1,5 @@
+name: ProBuilder Basic
+identifier: ProBuilder Basic_AboutWindowIdentifier
+version: 2.6.9f3
+date: 01-27-2017
+changelog: Assets/ProCore/ProBuilder/About/changelog.txt
