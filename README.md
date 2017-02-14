@@ -3,7 +3,7 @@
 A VR Minigame you fly around a low-res medieval scenery collecting floating boxes for points.
 
 ## Contributing
-Anyone can contribute, but please try to add things in our <a href="#What's-Next">What's next section</a>
+Anyone can contribute, but please try to add things in our <a href="#what's-Next">What's next section</a>
 
 ## Inspiration
 We also wanted to build something cool with Unity 3D and VR that was simplistic, intuitive to play, but also fun. We decided to create a game that showcases flight - and the feeling of weightlessness.
