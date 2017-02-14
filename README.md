@@ -14,7 +14,7 @@ The user flies around the scenery using his head position to navigate (they move
 ## How we built it
 We used Unity 3D version 5.5, with a Google Cardboard Headset and a Samsung Note S4.
 
-## We modeled our flight using a logistic growth curve. We based our model on one key idea - the relationship between desired speed and current height are proportional. However, we realized that a direct linear relationship felt too jerky and too fast at times - for that reason, we used a logistic growth curve.
+We modeled our flight using a logistic growth curve. We based our model on one key idea - the relationship between desired speed and current height are proportional. However, we realized that a direct linear relationship felt too jerky and too fast at times - for that reason, we used a logistic growth curve.
 
 ## Challenges we ran into
 The "player" would fly through the terrain as if it did not exist during the initial phases of development. We spent a generous amount of time figuring out how to perform this collision detection with the terrain.
