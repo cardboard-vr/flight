@@ -1,5 +1,4 @@
 # VR Flight
-
 A VR Minigame you fly around a low-res medieval scenery collecting floating boxes for points.
 
 ## Contributing
@@ -38,3 +37,7 @@ We earned significant Unity3D development skills, such as keeping track of time 
 ## Contributors
 * Ronak Shah
 * George Troulis
+
+## App Icon
+<img src="https://github.com/cardboard-vr/flight/raw/master/AppIcon.png"/>
+
